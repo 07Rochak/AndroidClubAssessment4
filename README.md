@@ -26,7 +26,18 @@ Its functionalities are:
 - On clicking 'Best Buys' a modal comes up which shows the best buy and it can be closed using the close button present in it
 
 Various screenshots are:
-- Home Page
-- Second Page
-- Scrolling in List Portfolio
-- Best Buys Modal
+- Home Page:
+
+  ![alt text](./assets/FirstP.jpeg)
+
+- Second Page:
+
+  ![alt text](./assets/SecondP.jpeg)
+
+- Scrolling in List Portfolio:
+
+  ![alt text](./assets/List.jpeg)
+
+- Best Buys Modal:
+
+  ![alt text](./assets/modal.jpeg)
